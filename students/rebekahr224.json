@@ -1,0 +1,14 @@
+{
+  "firstName": "Rebekah",
+  "lastName": "Robinson",
+  "nickName": "Keener",
+  "privateName": false,
+  "picture": "images/rebekahr224.jpeg",
+  "privatePicture": true,
+  "email": "rebekah.robinson@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "rebekahr224",
+  "privateGithub": false,
+  "superpower" : "speaks three languages, accident prone, volleyball",
+  "academicinterests": "cold war history, russian and french cultural history, russian literature"
+}
