@@ -1,8 +1,8 @@
 {
   "firstName": "Rebekah",
   "lastName": "Robinson",
-  "nickName": "Keener",
-  "privateName": false,
+  "nickName": "Bex",
+  "privateName": true,
   "picture": "images/rebekahr224.jpeg",
   "privatePicture": true,
   "email": "rebekah.robinson@mail.utoronto.ca",
